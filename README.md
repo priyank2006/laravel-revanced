@@ -19,4 +19,4 @@ To set up a new Laravel project using this boilerplate, follow these steps:
    Use the following command to create a new Laravel project with this boilerplate:
 
    ```bash
-   composer create-project --prefer-dist priyank/laravel my-new-project
+   composer create-project priyank2006/laravel-revanced
